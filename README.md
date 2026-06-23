@@ -1,4 +1,4 @@
-# 🚗 Project_3 Automobility 🚗
+# 🚗 Project_3 Autonomous RC car 🚗
 <br>
 
 ## 📌 1. Project Summary (프로젝트 요약)
@@ -89,14 +89,16 @@ project_RC/
 <br>
 
 ### 5.1 Final Product (완성품)
-
-
+<br>
+<img src="./images/rc_car.jpg" width="400">
 
 <br>
 
 ### 5.2 Demonstration (시연 영상)
 
-[![RC Car Demonstration](./images/demo_thumbnail.jpg)](https://youtu.be/영상주소를_여기에_입력)
+<a href="https://www.youtube.com/watch?v=y_h5x1xk92Q">
+  <img src="./images/youtube.png" width="500">
+</a>
 
 ### *이미지를 클릭하면 영상으로 이동합니다.*
 
